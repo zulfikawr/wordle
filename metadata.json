@@ -1,0 +1,5 @@
+{
+  "name": "Pastel 3D Wordle",
+  "description": "A modern, minimalist, 3D pastel-themed Wordle clone powered by Gemini. Features adjustable word length and infinite continuous play.",
+  "requestFramePermissions": []
+}
